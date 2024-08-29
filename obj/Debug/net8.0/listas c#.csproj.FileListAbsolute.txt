@@ -1,0 +1,42 @@
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\bin\Debug\net8.0\listas c#.exe
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\bin\Debug\net8.0\listas c#.deps.json
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\bin\Debug\net8.0\listas c#.runtimeconfig.json
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\bin\Debug\net8.0\listas c#.dll
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\bin\Debug\net8.0\listas c#.pdb
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.AssemblyInfoInputs.cache
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.AssemblyInfo.cs
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.dll
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\refint\listas c#.dll
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.pdb
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\listas c#.genruntimeconfig.cache
+C:\Users\Sebastian Marin\Desktop\sebastian\listas c#\obj\Debug\net8.0\ref\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\bin\Debug\net8.0\listas c#.exe
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\bin\Debug\net8.0\listas c#.deps.json
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\bin\Debug\net8.0\listas c#.runtimeconfig.json
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\bin\Debug\net8.0\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\bin\Debug\net8.0\listas c#.pdb
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.AssemblyInfoInputs.cache
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.AssemblyInfo.cs
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.csproj.CoreCompileInputs.cache
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\refint\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.pdb
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\listas c#.genruntimeconfig.cache
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listas c#\obj\Debug\net8.0\ref\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.AssemblyInfoInputs.cache
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.AssemblyInfo.cs
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.csproj.CoreCompileInputs.cache
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\refint\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.pdb
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas c#.exe
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas c#.deps.json
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas c#.runtimeconfig.json
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas c#.dll
+c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas c#.pdb
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.genruntimeconfig.cache
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\ref\listas c#.dll
