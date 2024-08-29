@@ -64,13 +64,11 @@ static void EditarCompletado(List<Tarea> tareas)
 
     if (tarea != null)
     {
-        string? verdadero="si";
-        string? falso="no";
         Console.WriteLine("¿Has completado la tarea? Marcar 'si' o 'no':");
         string? modificar = Console.ReadLine();
 
         // Validar si el dato que esta ingresando es correcto
-        if (modificar != verdadero && modificar != falso)
+        if (modificar != "si" && modificar != "no")
         {
             Console.WriteLine("Error, digitar lo requerido.");
         }

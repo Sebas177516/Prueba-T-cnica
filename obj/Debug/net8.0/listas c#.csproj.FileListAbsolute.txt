@@ -40,3 +40,4 @@ c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas
 c:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\bin\Debug\net8.0\listas c#.pdb
 C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.genruntimeconfig.cache
 C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\ref\listas c#.dll
+C:\Users\Sebastian Marin\Desktop\sebastian SENA\listasc#\obj\Debug\net8.0\listas c#.sourcelink.json
